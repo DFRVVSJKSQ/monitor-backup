@@ -90,3 +90,5 @@ reduce buffer size in config: `buffer_size: 1000`
 - [Forum](https://community.exercm.dev)
 
 MIT License
+
+# PR Update: 2025-10-22 - feature/update-4947
